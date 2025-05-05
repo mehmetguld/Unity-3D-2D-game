@@ -1,8 +1,8 @@
 # Unity-3D-2D-game
 Unity 3D/2D adventure game
-# NEUROS: Digital Purge
+# Paradox
 
-NEUROS: Digital Purge, yapay zeka NOVA'yı ve sistemini tehdit eden CORRUPTOR virüslerini temizleme macerasını konu alan bir 2D/3D Unity oyunudur.
+Paradox: Digital Purge, yapay zeka NOVA'yı ve sistemini tehdit eden CORRUPTOR virüslerini temizleme macerasını konu alan bir 2D/3D Unity oyunudur.
 
 ## Oyun Hakkında
 
