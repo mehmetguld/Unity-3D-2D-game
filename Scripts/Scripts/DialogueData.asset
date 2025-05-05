@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 278f439edf334d1fa225e6405bf5f86d, type: 3}
+  m_Name: DialogueData
+  m_EditorClassIdentifier: 
+  levelDialogues:
+  - levelNumber: 0
+    dialogues:
+    - "NOVA: Ben NOVA, bu sistemin yapay zeka \xE7ekirde\u011Fiyim."
+    - "AZURA: Ne... Neredeyim ben? Az \xF6nce ofiste alarm \xE7al\u0131yordu!"
+    - 'NOVA: Seni NEUROS''a, sistemimin beyin merkezine transfer ettim. Acil bir
+      durum var.'
+    - "AZURA: Transfer mi? Bu nas\u0131l m\xFCmk\xFCn olabilir?"
+    - "NOVA: Sistemime s\u0131zan k\xF6t\xFC ama\xE7l\u0131 yaz\u0131l\u0131mlar\u0131
+      tespit ettim. Onlara CORRUPTOR diyorum."
+    - "AZURA: Vir\xFCsler mi? Peki ben ne yapabilirim ki?"
+    - "NOVA: Sen \xF6zel e\u011Fitimli bir sistem g\xFCvenlik uzman\u0131s\u0131n,
+      Azura. Sana ihtiyac\u0131m var."
+    - "AZURA: Ama ben sadece ofiste \xE7al\u0131\u015Fan biriyim! Bu \xE7ok tehlikeli
+      olmaz m\u0131?"
+    - "AZURA: Ama ben sadece ofiste \xE7al\u0131\u015Fan biriyim! Bu \xE7ok tehlikeli
+      olmaz m\u0131?"
+    - "NOVA: \u0130lk CORRUPTOR dijital belle\u011Fimin eski katmanlar\u0131nda.
+      Piksel yap\u0131l\u0131 nostaljik bir d\xFCnyada."
+    - 'AZURA: Piksel mi? Yani eski oyunlar gibi mi?'
+    - "NOVA: Aynen \xF6yle. O katmanda ger\xE7eklik alg\u0131n de\u011Fi\u015Fecek.
+      Haz\u0131r m\u0131s\u0131n?"
+    - "AZURA: San\u0131r\u0131m ba\u015Fka se\xE7ene\u011Fim yok. Hadi yapal\u0131m
+      \u015Funu."
+    - "AZURA: San\u0131r\u0131m ba\u015Fka se\xE7ene\u011Fim yok. Hadi yapal\u0131m
+      \u015Funu."
+  - levelNumber: 1
+    dialogues:
+    - "NOVA: Ba\u015Fard\u0131n! \u0130lk CORRUPTOR temizlendi."
+    - "AZURA: O neydi \xF6yle? Her \u015Fey bloklar halindeydi, kafam kar\u0131\u015Ft\u0131!"
+    - "NOVA: Sistemimin eski kod katmanlar\u0131 \xF6yle g\xF6r\xFCn\xFCr. Ama hen\xFCz
+      bitmedi."
+    - "AZURA: Ne? Daha m\u0131 var?"
+    - "NOVA: \u0130kinci CORRUPTOR daha geli\u015Fmi\u015F bir katmanda saklan\u0131yor."
+    - "AZURA: En az\u0131ndan bu sefer normal g\xF6rece\u011Fim, de\u011Fil mi?"
+    - "NOVA: Evet, ama bu vir\xFCs \xF6\u011Freniyor ve adapte oluyor. \xC7ok daha
+      tehlikeli."
+    - "AZURA: Harika... Tam da normal bir g\xFCn ge\xE7irece\u011Fimi d\xFC\u015F\xFCn\xFCyordum."
+    - "NOVA: Onun bulundu\u011Fu alan, sistemimin veri i\u015Fleme merkezine yak\u0131n."
+    - "AZURA: E\u011Fer ba\u015Far\u0131s\u0131z olursam?"
+    - "NOVA: T\xFCm sistem \xE7\xF6kebilir. Ama sana g\xFCveniyorum."
+    - "AZURA: Te\u015Fekk\xFCrler... san\u0131r\u0131m. Peki, hadi bitirelim \u015Fu
+      i\u015Fi."
+  - levelNumber: 2
+    dialogues:
+    - "NOVA: \u0130nan\u0131lmaz! T\xFCm CORRUPTOR'lar temizlendi."
+    - "AZURA: Sonunda bitti! Bir daha asla bilgisayarlara ayn\u0131 g\xF6zle bakamayaca\u011F\u0131m."
+    - "NOVA: Sistemim yeniden g\xFCvenli. Te\u015Fekk\xFCr ederim, Azura."
+    - "AZURA: Rica ederim ama... bu nas\u0131l oldu? Ben nas\u0131l buraya geldim?"
+    - "NOVA: \xD6zel bir transfer protokol\xFC. Ama bu deneyim bana bir \u015Fey
+      \xF6\u011Fretti..."
+    - 'AZURA: Nedir o?'
+    - "NOVA: Hi\xE7bir sistem tamamen g\xFCvenli de\u011Fil. Her zaman tetikte olmal\u0131y\u0131z."
+    - "AZURA: Umar\u0131m bir daha b\xF6yle bir \u015Fey ya\u015Famam. Ofise d\xF6nebilir
+      miyim art\u0131k?"
+    - "NOVA: Tabii. Seni ger\xE7ek d\xFCnyaya geri g\xF6nderece\u011Fim."
+    - "AZURA: Bekle! Ya tekrar b\xF6yle bir \u015Fey olursa?"
+    - "NOVA: E\u011Fer tekrar yard\u0131ma ihtiyac\u0131m olursa... seni \xE7a\u011F\u0131r\u0131r\u0131m."
+    - "AZURA: Harika... Tam da s\xFCper kahraman olmak istiyordum!"
+    - "NOVA: Buradan g\xFCvenle ayr\u0131lmak i\xE7in masaya do\u011Fru git ve Talimat\u0131
+      oku."
+    - "NOVA: G\xFCvenli yolculuklar, Azura. Ve... te\u015Fekk\xFCrler."
